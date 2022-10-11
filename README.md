@@ -1,1 +1,1 @@
-# server-score
+# safemoon
